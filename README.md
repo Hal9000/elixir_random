@@ -1,5 +1,5 @@
-The `Random` module is based on Erlang's `rand` module. This in turn is a newer
-replacement for the deprecated `random`.
+The `Random` module is based on Erlang's `rand` module. (See http://erlang.org/doc/man/rand.html ).
+This in turn is a newer replacement for Erlang's deprecated `random`.
 
 All functionality of `rand` is preserved here. The primary differences are:
 
